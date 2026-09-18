@@ -3,10 +3,10 @@
 # 🚀 Xeno Injector
 ### The Ultimate Roblox Executor
 
-[![Stars](https://img.shields.io/badge/Stars-469-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goldwinston/roblox-xeno)
-[![Downloads](https://img.shields.io/badge/Downloads-2.9K-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goldwinston/roblox-xeno)
-[![Version](https://img.shields.io/badge/Version-V1.3.60-purple?style=for-the-badge)](https://github.com/goldwinston/roblox-xeno)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge)](https://github.com/goldwinston/roblox-xeno)
+[![Stars](https://img.shields.io/badge/Stars-469-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getupys/snos-telegram)
+[![Downloads](https://img.shields.io/badge/Downloads-2.9K-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getupys/snos-telegram)
+[![Version](https://img.shields.io/badge/Version-V1.3.60-purple?style=for-the-badge)](https://github.com/getupys/snos-telegram)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge)](https://github.com/getupys/snos-telegram)
 
 **Xeno Injector** — это мощный и стабильный инжектор для Roblox, поддерживающий широкий спектр скриптов и обеспечивающий высокую производительность.
 
